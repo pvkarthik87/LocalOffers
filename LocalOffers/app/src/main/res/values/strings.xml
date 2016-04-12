@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">LocalOffers</string>
+    <string name="loading_offers">Loading Offers</string>
+    <string name="loading_offers_failed">Failed to Load Offers</string>
+    <string name="empty_offers">Sorry no offers at present. Try again after some time.</string>
+    <string name="generic_server_down">Server Down. Try after some time.</string>
+    <string name="no_internet">Internet Not available</string>
+    <string name="generic_error_title">Unknown Error</string>
+    <string name="generic_error">Some error occurred try again later</string>
+    <string name="hint_uid">UID</string>
+    <string name="hint_apikey">API Key</string>
+    <string name="hint_appid">APP ID</string>
+    <string name="hint_pub0">PUB0</string>
+    <string name="btn_get_offers">Find Offers</string>
+    <string name="err_msg_uid">Enter valid uid</string>
+    <string name="err_msg_api_key">Enter valid api key</string>
+    <string name="err_msg_app_id">Enter valid app id</string>
+    <string name="err_msg_pub0">Enter valid pub0</string>
+</resources>
